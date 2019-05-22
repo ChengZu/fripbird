@@ -2,7 +2,7 @@
 fripbird in java
 # wowfish
 
-1.How to Compile and run
+1.How to compile and run
 
 First you need install jdk, you can install use this cmd 
 ```Bash 
