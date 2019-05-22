@@ -4,12 +4,12 @@ fripbird in java
 
 1.How to Compile and run
 
-  First you need install jdk, you can install use this cmd 
+    First you need install jdk, you can install use this cmd 
 ```Bash 
 sudo apt-get install openjdk-8-jdk 
 ``` 
   
-  To run cmd  
+    To run cmd  
 ```Bash
 ./run.sh 
 ```
