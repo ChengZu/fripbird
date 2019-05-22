@@ -11,6 +11,7 @@ sudo apt-get install openjdk-8-jdk
   
 To run cmd  
 ```Bash
+chmod +x run.sh
 ./run.sh 
 ```
   
