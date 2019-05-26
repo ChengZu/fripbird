@@ -1,6 +1,5 @@
 # fripbird
 fripbird in java
-# wowfish
 
 1.How to compile and run
 
