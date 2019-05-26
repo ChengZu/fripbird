@@ -1,4 +1,4 @@
-del /a /f /s /q bin\*.class
+del /a /f /s /q bin\*.class >nul
 
 javac -d bin -classpath src src/fripbird.java
 
