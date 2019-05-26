@@ -18,5 +18,4 @@ chmod +x run.sh
 
 ![Screenshot](./doc/Screenshot.png)
 
-3.PS
-The engine lib is very old, it has at least three bug
+
