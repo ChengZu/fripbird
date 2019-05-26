@@ -18,3 +18,6 @@ chmod +x run.sh
 2.Successful run screenshot
 
 ![Screenshot](./doc/Screenshot.png)
+
+3.PS
+The engine lib is very old, it has at least three bug, i don't have time to fix it.
